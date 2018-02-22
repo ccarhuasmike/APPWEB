@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Configuration;
+
+namespace INTERSUR.INFSAP.Util
+{
+    public class Globales
+    {
+        public static string getValor(string clave)
+        {
+            return ConfigurationManager.AppSettings[clave].ToString();
+        }
+    }
+}

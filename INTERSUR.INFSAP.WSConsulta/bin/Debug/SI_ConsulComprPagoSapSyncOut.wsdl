@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions name="SI_ConsulComprPagoSapSyncOut" targetNamespace="urn:cccc.telectronica.consulcompropagosap" xmlns:p3="urn:cccc.telectronica.objetoscomuns" xmlns:p2="urn:cccc.reeweb.objetoscomuns" xmlns:p1="urn:cccc.telectronica.consulcompropagosap" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+	<wsdl:documentation/>
+	<wsp:UsingPolicy wsdl:required="true"/>
+	<wsp:Policy wsu:Id="OP_SI_ConsulComprPagoSapSyncOut"/>
+	<wsdl:types>
+		<xsd:schema targetNamespace="urn:cccc.telectronica.objetoscomuns" xmlns="urn:cccc.telectronica.objetoscomuns" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+			<xsd:complexType name="ExchangeFaultData">
+				<xsd:annotation>
+					<xsd:appinfo source="http://sap.com/xi/VersionID">e4888b70168211e5b259000000788fde</xsd:appinfo>
+				</xsd:annotation>
+				<xsd:sequence>
+					<xsd:element name="faultText" type="xsd:string">
+						<xsd:annotation>
+							<xsd:appinfo source="http://sap.com/xi/TextID">ccfc9431c01a11e39c27fcf8aee30cc8</xsd:appinfo>
+						</xsd:annotation>
+					</xsd:element>
+					<xsd:element name="faultUrl" type="xsd:string" minOccurs="0">
+						<xsd:annotation>
+							<xsd:appinfo source="http://sap.com/xi/TextID">ccfcaaf2c01a11e3a773fcf8aee30cc8</xsd:appinfo>
+						</xsd:annotation>
+					</xsd:element>
+					<xsd:element name="faultDetail" type="ExchangeLogData" minOccurs="0" maxOccurs="unbounded">
+						<xsd:annotation>
+							<xsd:appinfo source="http://sap.com/xi/TextID">ccfcaaf3c01a11e3a64efcf8aee30cc8</xsd:appinfo>
+						</xsd:annotation>
+					</xsd:element>
+				</xsd:sequence>
+			</xsd:complexType>
+			<xsd:complexType name="ExchangeLogData">
+				<xsd:annotation>
+					<xsd:appinfo source="http://sap.com/xi/VersionID">e48bd274168211e5b340000000788fde</xsd:appinfo>
+				</xsd:annotation>
+				<xsd:sequence>
+					<xsd:element name="severity" type="xsd:string" minOccurs="0"/>
+					<xsd:element name="text" type="xsd:string"/>
+					<xsd:element name="url" type="xsd:string" minOccurs="0"/>
+					<xsd:element name="id" type="xsd:string" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:complexType>
+		</xsd:schema>
+		<xsd:schema targetNamespace="urn:cccc.reeweb.objetoscomuns" xmlns:p5="urn:cccc.telectronica.objetoscomuns" xmlns="urn:cccc.reeweb.objetoscomuns" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+			<xsd:import namespace="urn:cccc.telectronica.objetoscomuns"/>
+			<xsd:element name="MT_Erro">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="standard" type="p5:ExchangeFaultData"/>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:schema>
+		<xsd:schema targetNamespace="urn:cccc.telectronica.consulcompropagosap" xmlns="urn:cccc.telectronica.consulcompropagosap" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+			<xsd:element name="MT_ConsulComproPagoSap_response" type="DT_ConsulComproPagoSap_response"/>
+			<xsd:element name="MT_ConsulComproPagoSap" type="DT_ConsulComproPagoSap"/>
+			<xsd:complexType name="DT_ConsulComproPagoSap">
+				<xsd:annotation>
+					<xsd:appinfo source="http://sap.com/xi/VersionID">4e56cf61168211e5cfd6000000788fde</xsd:appinfo>
+				</xsd:annotation>
+				<xsd:sequence>
+					<xsd:element name="NUM_DOC" type="xsd:string" minOccurs="0"/>
+					<xsd:element name="TIP_DOC" type="xsd:string" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:complexType>
+			<xsd:complexType name="DT_ConsulComproPagoSap_response">
+				<xsd:annotation>
+					<xsd:appinfo source="http://sap.com/xi/VersionID">7f67c018168211e58f41000000788fde</xsd:appinfo>
+				</xsd:annotation>
+				<xsd:sequence>
+					<xsd:element name="NUM_DOC" type="xsd:string" minOccurs="0"/>
+					<xsd:element name="TIP_DOC" type="xsd:string" minOccurs="0"/>
+					<xsd:element name="COD_STA" type="xsd:string" minOccurs="0"/>
+					<xsd:element name="DES_STA" type="xsd:string" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:complexType>
+		</xsd:schema>
+	</wsdl:types>
+	<wsdl:message name="MT_ConsulComproPagoSap">
+		<wsdl:documentation/>
+		<wsdl:part name="MT_ConsulComproPagoSap" element="p1:MT_ConsulComproPagoSap"/>
+	</wsdl:message>
+	<wsdl:message name="MT_ConsulComproPagoSap_response">
+		<wsdl:documentation/>
+		<wsdl:part name="MT_ConsulComproPagoSap_response" element="p1:MT_ConsulComproPagoSap_response"/>
+	</wsdl:message>
+	<wsdl:message name="p3.MT_Erro">
+		<wsdl:documentation/>
+		<wsdl:part name="MT_Erro" element="p2:MT_Erro"/>
+	</wsdl:message>
+	<wsdl:portType name="SI_ConsulComprPagoSapSyncOut">
+		<wsdl:documentation/>
+		<wsdl:operation name="SI_ConsulComprPagoSapSyncOut">
+			<wsdl:documentation/>
+			<wsp:Policy>
+				<wsp:PolicyReference URI="#OP_SI_ConsulComprPagoSapSyncOut"/>
+			</wsp:Policy>
+			<wsdl:input message="p1:MT_ConsulComproPagoSap"/>
+			<wsdl:output message="p1:MT_ConsulComproPagoSap_response"/>
+			<wsdl:fault name="p3.MT_Erro" message="p1:p3.MT_Erro"/>
+		</wsdl:operation>
+	</wsdl:portType>
+	<wsdl:binding name="SI_ConsulComprPagoSapSyncOutBinding" type="p1:SI_ConsulComprPagoSapSyncOut">
+		<soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"/>
+		<wsdl:operation name="SI_ConsulComprPagoSapSyncOut">
+			<soap:operation soapAction="http://sap.com/xi/WebService/soap1.1" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"/>
+			<wsdl:input>
+				<soap:body use="literal" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"/>
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"/>
+			</wsdl:output>
+			<wsdl:fault name="p3.MT_Erro">
+				<soap:fault use="literal" name="p3.MT_Erro" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"/>
+			</wsdl:fault>
+		</wsdl:operation>
+	</wsdl:binding>
+	<wsdl:service name="SI_ConsulComprPagoSapSyncOutService">
+		<wsdl:port name="SI_ConsulComprPagoSapSyncOutPort" binding="p1:SI_ConsulComprPagoSapSyncOutBinding">
+			<soap:address location="https://sepp.camargocorrea.com.br/sap/xi/engine?type=entry&amp;version=3.0&amp;Sender.Service=BS_TELECTRONICA&amp;Interface=urn%3Acccc.telectronica.consulcompropagosap%5ESI_ConsulComprPagoSapSyncOut" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"/>
+		</wsdl:port>
+	</wsdl:service>
+</wsdl:definitions>

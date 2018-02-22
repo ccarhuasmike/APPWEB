@@ -1,0 +1,16 @@
+E:\DESARROLLOCAMARGO\SERVICIOS\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\INTERSUR.INFSAP.Entidades.dll
+E:\DESARROLLOCAMARGO\SERVICIOS\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\INTERSUR.INFSAP.Entidades.pdb
+E:\DESARROLLOCAMARGO\SERVICIOS\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.dll
+E:\DESARROLLOCAMARGO\SERVICIOS\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.pdb
+E:\DESARROLLOCAMARGO\SERVICIOS\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.csprojResolveAssemblyReference.cache
+E:\DESARROLLOCAMARGO\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\INTERSUR.INFSAP.Entidades.dll
+E:\DESARROLLOCAMARGO\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\INTERSUR.INFSAP.Entidades.pdb
+E:\DESARROLLOCAMARGO\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.dll
+E:\DESARROLLOCAMARGO\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.pdb
+C:\Users\prvsegccar0\Desktop\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\INTERSUR.INFSAP.Entidades.dll
+C:\Users\prvsegccar0\Desktop\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\INTERSUR.INFSAP.Entidades.pdb
+C:\Users\prvsegccar0\Desktop\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\System.Net.Http.dll
+C:\Users\prvsegccar0\Desktop\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\bin\Debug\System.Net.Http.xml
+C:\Users\prvsegccar0\Desktop\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\prvsegccar0\Desktop\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.dll
+C:\Users\prvsegccar0\Desktop\APPWEB\INTERSUR.INFSAP.Entidades\INTERSUR.INFSAP.Entidades\obj\Debug\INTERSUR.INFSAP.Entidades.pdb

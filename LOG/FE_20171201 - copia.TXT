@@ -1,0 +1,222 @@
+﻿<table>
+<tr><td>NRODOC</td><td>TIP_DOC</td><td>gEstado</td><td>COD_STA </td><td>DES_STA </td><td>FECEMISION</td><td>FECHA</td></tr>
+<tr><td>F341-0068050</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0068050, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 9:06:40</td></tr>
+<tr><td>F141-0051768</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>28/11/2017</td><td>01/12/2017 9:06:43</td></tr>
+<tr><td>F141-0051767</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>28/11/2017</td><td>01/12/2017 9:06:47</td></tr>
+<tr><td>F242-0050449</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>13/11/2017</td><td>01/12/2017 9:06:50</td></tr>
+<tr><td>F191-0000835</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>04/11/2017</td><td>01/12/2017 9:06:53</td></tr>
+<tr><td>F142-0052245</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052245, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 9:06:57</td></tr>
+<tr><td>F241-0052481</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:01</td></tr>
+<tr><td>F241-0052482</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:04</td></tr>
+<tr><td>F241-0052483</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:08</td></tr>
+<tr><td>F241-0052484</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:11</td></tr>
+<tr><td>F241-0052485</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:14</td></tr>
+<tr><td>F242-0051157</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:18</td></tr>
+<tr><td>F242-0051158</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:21</td></tr>
+<tr><td>F241-0052492</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:25</td></tr>
+<tr><td>F241-0052493</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:28</td></tr>
+<tr><td>F241-0052494</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:32</td></tr>
+<tr><td>F241-0052495</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:35</td></tr>
+<tr><td>F241-0052496</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:39</td></tr>
+<tr><td>F241-0052497</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:43</td></tr>
+<tr><td>F242-0051173</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:46</td></tr>
+<tr><td>F242-0051174</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:50</td></tr>
+<tr><td>F242-0051175</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:07:54</td></tr>
+<tr><td>F342-0066401</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066401, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:07:57</td></tr>
+<tr><td>F241-0052502</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:01</td></tr>
+<tr><td>F241-0052503</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:04</td></tr>
+<tr><td>F242-0051185</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:07</td></tr>
+<tr><td>F241-0052498</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:11</td></tr>
+<tr><td>F241-0052499</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:17</td></tr>
+<tr><td>F241-0052500</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:22</td></tr>
+<tr><td>F241-0052501</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:27</td></tr>
+<tr><td>F242-0051176</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:34</td></tr>
+<tr><td>F242-0051177</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:37</td></tr>
+<tr><td>F242-0051178</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:40</td></tr>
+<tr><td>F242-0051179</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:44</td></tr>
+<tr><td>F242-0051181</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:48</td></tr>
+<tr><td>F242-0051182</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:54</td></tr>
+<tr><td>F242-0051183</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:08:57</td></tr>
+<tr><td>F242-0051184</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:00</td></tr>
+<tr><td>F341-0066846</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0066846, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:09:04</td></tr>
+<tr><td>F242-0051186</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:07</td></tr>
+<tr><td>F242-0051187</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:10</td></tr>
+<tr><td>F341-0066854</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0066854, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:09:15</td></tr>
+<tr><td>F341-0066897</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0066897, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:09:18</td></tr>
+<tr><td>F341-0066898</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0066898, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:09:22</td></tr>
+<tr><td>F342-0066447</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066447, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:09:25</td></tr>
+<tr><td>F142-0051582</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:28</td></tr>
+<tr><td>F142-0051583</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:32</td></tr>
+<tr><td>F142-0051617</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:35</td></tr>
+<tr><td>F241-0052538</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:39</td></tr>
+<tr><td>F241-0052539</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:42</td></tr>
+<tr><td>F241-0052540</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:46</td></tr>
+<tr><td>F241-0052541</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:49</td></tr>
+<tr><td>F241-0052542</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:53</td></tr>
+<tr><td>F241-0052543</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:09:56</td></tr>
+<tr><td>F241-0052544</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:00</td></tr>
+<tr><td>F241-0052545</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:03</td></tr>
+<tr><td>F241-0052546</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:07</td></tr>
+<tr><td>F141-0051111</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>22/11/2017</td><td>01/12/2017 9:10:10</td></tr>
+<tr><td>F142-0051614</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:13</td></tr>
+<tr><td>F241-0052533</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:16</td></tr>
+<tr><td>F241-0052534</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:20</td></tr>
+<tr><td>F241-0052535</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:23</td></tr>
+<tr><td>F241-0052536</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:26</td></tr>
+<tr><td>F241-0052537</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:30</td></tr>
+<tr><td>F142-0051618</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:33</td></tr>
+<tr><td>F142-0051619</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:36</td></tr>
+<tr><td>F142-0051620</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:40</td></tr>
+<tr><td>F142-0051621</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:43</td></tr>
+<tr><td>F142-0051622</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:47</td></tr>
+<tr><td>F241-0052548</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:51</td></tr>
+<tr><td>F241-0052549</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:55</td></tr>
+<tr><td>F241-0052550</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:10:58</td></tr>
+<tr><td>F241-0052551</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:11:01</td></tr>
+<tr><td>F241-0052552</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:11:05</td></tr>
+<tr><td>F242-0051220</td><td>FV</td><td>0</td><td>WARN</td><td>FALLA DE COMUNICACIÓN CON SUNAT</td><td>22/11/2017</td><td>01/12/2017 9:11:09</td></tr>
+<tr><td>F242-0051223</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>22/11/2017</td><td>01/12/2017 9:11:13</td></tr>
+<tr><td>F242-0051228</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051228, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:11:17</td></tr>
+<tr><td>F142-0051623</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:11:21</td></tr>
+<tr><td>F241-0052553</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:11:24</td></tr>
+<tr><td>F241-0052554</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:11:28</td></tr>
+<tr><td>F241-0052555</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:11:31</td></tr>
+<tr><td>F342-0066528</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066528, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:11:35</td></tr>
+<tr><td>F341-0066196</td><td>FV</td><td>0</td><td>ERRO</td><td>Presentacion fuera de fecha - Presentacion fuera d</td><td>17/11/2017</td><td>01/12/2017 9:11:38</td></tr>
+<tr><td>F242-0050911</td><td>FV</td><td>0</td><td>ERRO</td><td>Presentacion fuera de fecha - Presentacion fuera d</td><td>18/11/2017</td><td>01/12/2017 9:11:42</td></tr>
+<tr><td>F141-0051002</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F141-0051002, ha sido aceptada</td><td>21/11/2017</td><td>01/12/2017 9:11:45</td></tr>
+<tr><td>F142-0051503</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051503, ha sido aceptada</td><td>21/11/2017</td><td>01/12/2017 9:11:51</td></tr>
+<tr><td>F242-0051150</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051150, ha sido aceptada</td><td>21/11/2017</td><td>01/12/2017 9:11:54</td></tr>
+<tr><td>F142-0051521</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051521, ha sido aceptada</td><td>21/11/2017</td><td>01/12/2017 9:11:58</td></tr>
+<tr><td>F241-0052473</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052473, ha sido aceptada</td><td>21/11/2017</td><td>01/12/2017 9:12:01</td></tr>
+<tr><td>F342-0066373</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066373, ha sido aceptada</td><td>21/11/2017</td><td>01/12/2017 9:12:04</td></tr>
+<tr><td>F141-0051026</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F141-0051026, ha sido aceptada</td><td>22/11/2017</td><td>01/12/2017 9:12:08</td></tr>
+<tr><td>F142-0051523</td><td>FV</td><td>0</td><td>ERRO</td><td>PRESENTACION FUERA DE FECHA</td><td>21/11/2017</td><td>01/12/2017 9:12:11</td></tr>
+<tr><td>F241-0052477</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:12:14</td></tr>
+<tr><td>F241-0052478</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:12:18</td></tr>
+<tr><td>F241-0052479</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:12:21</td></tr>
+<tr><td>F241-0052480</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:12:24</td></tr>
+<tr><td>F242-0051154</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:12:28</td></tr>
+<tr><td>F242-0051155</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:12:32</td></tr>
+<tr><td>F242-0051156</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>22/11/2017</td><td>01/12/2017 9:12:35</td></tr>
+<tr><td>F341-0066815</td><td>FV</td><td>0</td><td>ERRO</td><td>PRESENTACION FUERA DE FECHA</td><td>21/11/2017</td><td>01/12/2017 9:12:39</td></tr>
+<tr><td>F142-0051658</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051658, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:12:42</td></tr>
+<tr><td>F241-0052599</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>23/11/2017</td><td>01/12/2017 9:12:46</td></tr>
+<tr><td>F241-0052600</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>23/11/2017</td><td>01/12/2017 9:12:49</td></tr>
+<tr><td>F241-0052601</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>23/11/2017</td><td>01/12/2017 9:12:53</td></tr>
+<tr><td>F241-0052602</td><td>FV</td><td>0</td><td>ERRO</td><td></td><td>23/11/2017</td><td>01/12/2017 9:12:56</td></tr>
+<tr><td>F241-0052603</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052603, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:00</td></tr>
+<tr><td>F241-0052606</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>23/11/2017</td><td>01/12/2017 9:13:03</td></tr>
+<tr><td>F241-0052607</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052607, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:07</td></tr>
+<tr><td>F242-0051262</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051262, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:10</td></tr>
+<tr><td>F342-0066589</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>23/11/2017</td><td>01/12/2017 9:13:14</td></tr>
+<tr><td>F342-0066590</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066590, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:17</td></tr>
+<tr><td>F242-0051264</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>23/11/2017</td><td>01/12/2017 9:13:21</td></tr>
+<tr><td>F142-0051671</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051671, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:24</td></tr>
+<tr><td>F142-0051679</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051679, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:29</td></tr>
+<tr><td>F142-0051683</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051683, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:33</td></tr>
+<tr><td>F241-0052646</td><td>FV</td><td>0</td><td>WARN</td><td>FALLA DE COMUNICACIÓN CON SUNAT</td><td>23/11/2017</td><td>01/12/2017 9:13:36</td></tr>
+<tr><td>F342-0066699</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066699, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:40</td></tr>
+<tr><td>F342-0066702</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066702, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:43</td></tr>
+<tr><td>F342-0066705</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066705, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:47</td></tr>
+<tr><td>F342-0066706</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066706, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:50</td></tr>
+<tr><td>F342-0066709</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066709, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:54</td></tr>
+<tr><td>F241-0052652</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052652, ha sido aceptada</td><td>23/11/2017</td><td>01/12/2017 9:13:57</td></tr>
+<tr><td>F242-0051319</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>23/11/2017</td><td>01/12/2017 9:14:00</td></tr>
+<tr><td>F241-0052698</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052698, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:03</td></tr>
+<tr><td>F341-0067248</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067248, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:07</td></tr>
+<tr><td>F341-0067251</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>24/11/2017</td><td>01/12/2017 9:14:11</td></tr>
+<tr><td>F142-0051788</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051788, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:14</td></tr>
+<tr><td>F241-0052715</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>24/11/2017</td><td>01/12/2017 9:14:18</td></tr>
+<tr><td>F242-0051375</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051375, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:21</td></tr>
+<tr><td>F242-0051377</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051377, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:24</td></tr>
+<tr><td>F341-0067296</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067296, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:28</td></tr>
+<tr><td>F341-0067299</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067299, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:31</td></tr>
+<tr><td>F341-0067303</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067303, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:34</td></tr>
+<tr><td>F141-0051326</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F141-0051326, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:38</td></tr>
+<tr><td>F341-0067305</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>24/11/2017</td><td>01/12/2017 9:14:41</td></tr>
+<tr><td>F342-0066869</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066869, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:44</td></tr>
+<tr><td>F342-0066876</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066876, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:49</td></tr>
+<tr><td>F342-0066887</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066887, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:14:52</td></tr>
+<tr><td>F141-0051340</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>24/11/2017</td><td>01/12/2017 9:14:57</td></tr>
+<tr><td>F241-0052727</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052727, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:01</td></tr>
+<tr><td>F141-0051391</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>25/11/2017</td><td>01/12/2017 9:15:05</td></tr>
+<tr><td>F241-0052748</td><td>FV</td><td>0</td><td>WARN</td><td>FALLA DE COMUNICACIÓN CON SUNAT</td><td>24/11/2017</td><td>01/12/2017 9:15:09</td></tr>
+<tr><td>F241-0052750</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052750, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:12</td></tr>
+<tr><td>F242-0051401</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051401, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:16</td></tr>
+<tr><td>F242-0051404</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051404, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:19</td></tr>
+<tr><td>F341-0067369</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067369, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:22</td></tr>
+<tr><td>F342-0066952</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0066952, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:26</td></tr>
+<tr><td>F341-0067373</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067373, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:29</td></tr>
+<tr><td>F341-0067377</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>24/11/2017</td><td>01/12/2017 9:15:33</td></tr>
+<tr><td>F142-0051862</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0051862, ha sido aceptada</td><td>24/11/2017</td><td>01/12/2017 9:15:36</td></tr>
+<tr><td>F142-0051866</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>24/11/2017</td><td>01/12/2017 9:15:40</td></tr>
+<tr><td>F142-0051875</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>25/11/2017</td><td>01/12/2017 9:15:44</td></tr>
+<tr><td>F241-0052787</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052787, ha sido aceptada</td><td>25/11/2017</td><td>01/12/2017 9:15:47</td></tr>
+<tr><td>F341-0067453</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>25/11/2017</td><td>01/12/2017 9:15:51</td></tr>
+<tr><td>F342-0067026</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067026, ha sido aceptada</td><td>25/11/2017</td><td>01/12/2017 9:15:54</td></tr>
+<tr><td>F241-0052804</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052804, ha sido aceptada</td><td>25/11/2017</td><td>01/12/2017 9:15:58</td></tr>
+<tr><td>F341-0067492</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067492, ha sido aceptada</td><td>25/11/2017</td><td>01/12/2017 9:16:01</td></tr>
+<tr><td>F341-0067493</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067493, ha sido aceptada</td><td>25/11/2017</td><td>01/12/2017 9:16:05</td></tr>
+<tr><td>F242-0051461</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>25/11/2017</td><td>01/12/2017 9:16:08</td></tr>
+<tr><td>F341-0067495</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067495, ha sido aceptada</td><td>25/11/2017</td><td>01/12/2017 9:16:11</td></tr>
+<tr><td>F342-0067088</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>25/11/2017</td><td>01/12/2017 9:16:16</td></tr>
+<tr><td>F341-0067623</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067623, ha sido aceptada</td><td>26/11/2017</td><td>01/12/2017 9:16:19</td></tr>
+<tr><td>F342-0067228</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067228, ha sido aceptada</td><td>26/11/2017</td><td>01/12/2017 9:16:23</td></tr>
+<tr><td>F141-0051543</td><td>FV</td><td>0</td><td>ERRO</td><td>RECEPCIÓN CORRECTA</td><td>26/11/2017</td><td>01/12/2017 9:16:27</td></tr>
+<tr><td>F141-0051548</td><td>FV</td><td>0</td><td>WARN</td><td>Excepción enviada por SUNAT - Codigo de Error: {ht</td><td>26/11/2017</td><td>01/12/2017 9:16:31</td></tr>
+<tr><td>F141-0051553</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F141-0051553, ha sido aceptada</td><td>26/11/2017</td><td>01/12/2017 9:16:36</td></tr>
+<tr><td>F142-0052045</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052045, ha sido aceptada</td><td>26/11/2017</td><td>01/12/2017 9:16:40</td></tr>
+<tr><td>F141-0051564</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F141-0051564, ha sido aceptada</td><td>26/11/2017</td><td>01/12/2017 9:16:43</td></tr>
+<tr><td>F341-0067661</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067661, ha sido aceptada</td><td>26/11/2017</td><td>01/12/2017 9:16:46</td></tr>
+<tr><td>F342-0067254</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067254, ha sido aceptada</td><td>26/11/2017</td><td>01/12/2017 9:16:51</td></tr>
+<tr><td>F142-0052079</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052079, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:16:54</td></tr>
+<tr><td>F241-0052914</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052914, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:16:57</td></tr>
+<tr><td>F241-0052915</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052915, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:01</td></tr>
+<tr><td>F341-0067728</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067728, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:04</td></tr>
+<tr><td>F341-0067729</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067729, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:08</td></tr>
+<tr><td>F341-0067730</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067730, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:12</td></tr>
+<tr><td>F341-0067731</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067731, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:15</td></tr>
+<tr><td>F341-0067732</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067732, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:18</td></tr>
+<tr><td>F341-0067733</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067733, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:22</td></tr>
+<tr><td>F341-0067734</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067734, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:25</td></tr>
+<tr><td>F341-0067735</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067735, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:28</td></tr>
+<tr><td>F341-0067736</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067736, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:32</td></tr>
+<tr><td>F342-0067304</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067304, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:35</td></tr>
+<tr><td>F342-0067305</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067305, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:38</td></tr>
+<tr><td>F342-0067306</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067306, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:42</td></tr>
+<tr><td>F342-0067307</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067307, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:46</td></tr>
+<tr><td>F142-0052124</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052124, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:49</td></tr>
+<tr><td>F142-0052125</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052125, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:53</td></tr>
+<tr><td>F142-0052126</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052126, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:56</td></tr>
+<tr><td>F142-0052127</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052127, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:17:59</td></tr>
+<tr><td>F142-0052128</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052128, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:03</td></tr>
+<tr><td>F241-0052940</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052940, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:07</td></tr>
+<tr><td>F241-0052941</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052941, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:10</td></tr>
+<tr><td>F241-0052942</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052942, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:15</td></tr>
+<tr><td>F241-0052943</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052943, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:18</td></tr>
+<tr><td>F241-0052944</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F241-0052944, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:22</td></tr>
+<tr><td>F241-0052945</td><td>FV</td><td>0</td><td>WARN</td><td>FALLA DE COMUNICACIÓN CON SUNAT</td><td>27/11/2017</td><td>01/12/2017 9:18:25</td></tr>
+<tr><td>F242-0051586</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051586, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:28</td></tr>
+<tr><td>F242-0051587</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051587, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:32</td></tr>
+<tr><td>F242-0051588</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F242-0051588, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:35</td></tr>
+<tr><td>F341-0067816</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067816, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:38</td></tr>
+<tr><td>F341-0067817</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067817, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:42</td></tr>
+<tr><td>F341-0067818</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067818, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:46</td></tr>
+<tr><td>F341-0067819</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067819, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:49</td></tr>
+<tr><td>F341-0067820</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067820, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:53</td></tr>
+<tr><td>F341-0067821</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067821, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:18:56</td></tr>
+<tr><td>F341-0067822</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067822, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:00</td></tr>
+<tr><td>F341-0067823</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067823, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:04</td></tr>
+<tr><td>F341-0067824</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F341-0067824, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:07</td></tr>
+<tr><td>F342-0067358</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067358, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:10</td></tr>
+<tr><td>F342-0067359</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067359, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:14</td></tr>
+<tr><td>F342-0067360</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067360, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:17</td></tr>
+<tr><td>F342-0067361</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067361, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:21</td></tr>
+<tr><td>F342-0067362</td><td>FV</td><td>0</td><td>WARN</td><td>No se logró llamar a la Suit e-bill</td><td>27/11/2017</td><td>01/12/2017 9:19:24</td></tr>
+<tr><td>F342-0067363</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067363, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:27</td></tr>
+<tr><td>F342-0067364</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067364, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:31</td></tr>
+<tr><td>F342-0067365</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067365, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:34</td></tr>
+<tr><td>F342-0067366</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F342-0067366, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:38</td></tr>
+<tr><td>F142-0052129</td><td>FV</td><td>0</td><td>ERRO</td><td>La Factura numero F142-0052129, ha sido aceptada</td><td>27/11/2017</td><td>01/12/2017 9:19:41</td></tr>
+</table>

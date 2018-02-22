@@ -1,0 +1,15 @@
+D:\DESARROLLO\IGACC2017\Utilitarios\bin\Release\Utilitarios.dll
+D:\DESARROLLO\IGACC2017\Utilitarios\bin\Release\Utilitarios.pdb
+D:\DESARROLLO\IGACC2017\Utilitarios\bin\Release\log4net.dll
+D:\DESARROLLO\IGACC2017\Utilitarios\bin\Release\log4net.xml
+D:\DESARROLLO\IGACC2017\Utilitarios\obj\Release\Utilitarios.dll
+D:\DESARROLLO\IGACC2017\Utilitarios\obj\Release\Utilitarios.pdb
+D:\DESARROLLO\IGACC2017\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+D:\IGACC2017\Utilitarios\bin\Release\Utilitarios.dll
+D:\IGACC2017\Utilitarios\bin\Release\Utilitarios.pdb
+D:\IGACC2017\Utilitarios\bin\Release\log4net.dll
+D:\IGACC2017\Utilitarios\bin\Release\Oracle.DataAccess.dll
+D:\IGACC2017\Utilitarios\bin\Release\log4net.xml
+D:\IGACC2017\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+D:\IGACC2017\Utilitarios\obj\Release\Utilitarios.dll
+D:\IGACC2017\Utilitarios\obj\Release\Utilitarios.pdb

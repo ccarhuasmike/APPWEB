@@ -1,0 +1,9 @@
+<tr><td>F342-0067566</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F342-0067566, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 10:04:08</td></tr>
+<tr><td>F342-0067565</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F342-0067565, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 10:04:13</td></tr>
+<tr><td>F342-0067563</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F342-0067563, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 10:04:16</td></tr>
+<tr><td>F341-0068051</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F341-0068051, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 10:04:22</td></tr>
+<tr><td>F341-0068050</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F341-0068050, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 10:04:27</td></tr>
+<tr><td>F342-0067566</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F342-0067566, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 16:55:37</td></tr>
+<tr><td>F342-0067565</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F342-0067565, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 16:55:43</td></tr>
+<tr><td>F342-0067563</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F342-0067563, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 16:55:48</td></tr>
+<tr><td>F341-0068051</td><td>FV</td><td>1</td><td>ERRO</td><td>La Factura numero F341-0068051, ha sido aceptada</td><td>28/11/2017</td><td>01/12/2017 16:55:54</td></tr>
